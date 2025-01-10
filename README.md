@@ -4,7 +4,7 @@ Este proyecto es una API REST para la gestión de un foro desarrollado con Sprin
 
 ## 📋 Características
 
-- Autenticación básica (Spring Security)
+- Autenticación básica 
 - CRUD de usuarios y topicos
 - Endpoints protegidos
 - Integración con PostgreSQL
